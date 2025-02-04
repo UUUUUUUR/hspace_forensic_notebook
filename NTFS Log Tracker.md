@@ -31,5 +31,5 @@ NTFS Log Tracker의 주요 사용처는 다음과 같습니다:
 - [주의사항 1: NTFS Log Tracker를 사용하기 위해서는 FTK Imager 등으로 $MFT, $LogFile, $UsnJnl:$J파일을 export해야 사용 가능함.]
 
 ## 관련 URL
-[다운로드 링크](https://sites.google.com/site/forensicnote/ntfs-log-tracker)
-[NTFS 로그 분석을 통한 사용자 의심 행위 탐지에 관한 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002765136)
+- [다운로드 링크](https://sites.google.com/site/forensicnote/ntfs-log-tracker)
+- [NTFS 로그 분석을 통한 사용자 의심 행위 탐지에 관한 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002765136)
