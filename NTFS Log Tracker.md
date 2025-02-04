@@ -5,7 +5,7 @@ NTFS Log Tracker는 $LogFile, $UsnJrnl:$J, $MFT 파일을 이용하여, NTFS 파
 이를 이용하여, 최근 삭제된 파일, 최근 변경된 파일, 최근 생성된 파일 등 다양한 이벤트를 확인할 수 있습니다.
 
 ## 설치 영역
-해당 도구는, https://sites.google.com/site/forensicnote/ntfs-log-tracker에서 무료로 배포되는 도구로, 사용자가 직접 압축을 해제하고 원하는 위치에 설치할 수 있습니다.
+해당 도구는, https://sites.google.com/site/forensicnote/ntfs-log-tracker 에서 무료로 배포되는 도구로, 사용자가 직접 압축을 해제하고 원하는 위치에 설치할 수 있습니다.
 
 ## 사용처
 NTFS Log Tracker의 주요 사용처는 다음과 같습니다:
