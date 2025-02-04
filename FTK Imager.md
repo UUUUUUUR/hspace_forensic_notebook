@@ -26,6 +26,7 @@
 4. **시작 메뉴 또는 바탕화면 바로가기로 실행**
 
 ## 접속 화면
+![ftk imager](https://github.com/user-attachments/assets/2b4c3375-55b3-48fd-ae20-4a428c7f7310)
 
 
 ## 주의 사항
