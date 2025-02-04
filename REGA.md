@@ -57,4 +57,4 @@ REGA는 설치형 애플리케이션이 아닌 압축된 파일로 제공되며,
 | | SAM | C:\Windows\System32\config |
 
 ## 관련 URL
-[DFRC]((http://dfrc.korea.ac.kr/infra_dfrc_tools/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14616120&t=board))
+[DFRC](http://dfrc.korea.ac.kr/infra_dfrc_tools/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14616120&t=board)
