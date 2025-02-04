@@ -24,6 +24,10 @@
 2. **압축 파일 해제**
 3. **BrowsingHistoryView.exe 실행**
 
+## 접속 화면
+![image](https://github.com/user-attachments/assets/0df762b3-35ba-49f2-b6b2-60fb24254c5e)
+
+
 ## 주의 사항
 - 관리자 권한으로 실행해야 모든 사용자의 브라우징 기록 확인 가능
 
