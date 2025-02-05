@@ -38,5 +38,5 @@
 - 정기적인 업데이트 필요
 
 ## 관련 URL
-[OpenText EnCase](https://security.opentext.com/encase-forensic)
-[Encase 기초 사용 방법](https://dlwlsdnd951.tistory.com/category/Forensics/Encase)
+- [OpenText EnCase](https://security.opentext.com/encase-forensic)
+- [Encase 기초 사용 방법](https://dlwlsdnd951.tistory.com/category/Forensics/Encase)
