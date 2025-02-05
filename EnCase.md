@@ -39,3 +39,4 @@
 
 ## 관련 URL
 [OpenText EnCase](https://security.opentext.com/encase-forensic)
+[Encase 기초 사용 방법](https://dlwlsdnd951.tistory.com/category/Forensics/Encase)
